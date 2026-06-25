@@ -274,11 +274,6 @@ export default function App() {
           </div>
         </div>
       </section>
-
-      {/* Footer */}
-      <footer style={styles.footer}>
-        <p style={{ margin: 0 }}>Designed & Programmed by Divya Kuriakose — Eligible for uLearn Karma points ✨</p>
-      </footer>
     </div>
   );
 }
