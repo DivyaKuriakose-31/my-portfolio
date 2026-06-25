@@ -122,7 +122,7 @@ export default function App() {
       {/* Navigation */}
       <nav style={styles.navbar}>
         <div style={{ fontWeight: 'bold', fontSize: '1.35rem', color: '#9f7aea', letterSpacing: '0.5px' }}>
-          Divya Kuriakose.
+          Divya Kuriakose
         </div>
         <ul style={styles.navLinks}>
           <li><a href="#about" style={styles.navLink(activeSection === 'about')} onClick={() => setActiveSection('about')}>About</a></li>
